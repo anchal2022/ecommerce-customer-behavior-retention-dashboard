@@ -254,35 +254,4 @@ This project can be extended further by adding:
 
 ---
 
-## Repository Structure
-```text
-ecommerce-customer-behavior-retention-dashboard/
-│
-├── README.md
-├── data/
-│   ├── raw/
-│   └── cleaned/
-│
-├── sql/
-│   ├── 01_data_validation.sql
-│   ├── 02_core_kpi_analysis.sql
-│   ├── 03_product_reorder_analysis.sql
-│   ├── 04_customer_behavior_analysis.sql
-│   ├── 05_retention_analysis.sql
-│   └── 06_churn_analysis.sql
-│
-├── excel/
-│   └── excel_analysis.xlsx
-│
-├── powerbi/
-│   └── ecommerce_customer_behavior_dashboard.pbix
-│
-├── screenshots/
-│   ├── 01_executive_summary.png
-│   ├── 02_product_reorder_analysis.png
-│   ├── 03_customer_behavior_analysis.png
-│   ├── 04_retention_analysis.png
-│   └── 05_churn_analysis.png
-│
-└── docs/
-    └── project_summary.pdf
+
