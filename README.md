@@ -249,8 +249,7 @@ This project can be extended further by adding:
 - SQL query scripts
 - Power BI dashboard file
 - dashboard screenshots
-- cleaned datasets (if included)
-- README documentation
+
 
 ---
 
